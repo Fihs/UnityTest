@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73c8440f22e13154cbfd61f456946b5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstaclePrefab: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - EnemyPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
